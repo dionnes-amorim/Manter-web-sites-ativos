@@ -7,7 +7,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-TIMEOUT_SECONDS = 25
+TIMEOUT_SECONDS = 45
 MAX_WORKERS = 10
 USER_AGENT = "KeepAlive-Monitor/1.0"
 
