@@ -1,0 +1,6 @@
+# Opcional: URLs públicas, uma por linha.
+# Recomendado: configure o segredo KEEPALIVE_URLS no GitHub para não expor
+# URLs internas ou com tokens no repositório.
+# Exemplo:
+# https://meu-projeto.onrender.com/health
+# https://meu-outro-projeto.onrender.com/
